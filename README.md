@@ -14,6 +14,10 @@ Check out my [full repo list](https://github.com/rajneeshzytox?tab=repositories)
 ## 📈 GitHub Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajneeshzytox&theme=radical&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshzytox&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshzytox&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Let's Connect
 - On X/Twitter: [@rajneeshzytox](https://twitter.com/rajneeshzytox)
 - EMail: rajneeshzytox@gmail.com
