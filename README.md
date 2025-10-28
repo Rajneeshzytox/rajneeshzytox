@@ -16,7 +16,6 @@ Check out my [full repo list](https://github.com/rajneeshzytox?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshzytox&layout=pie)](https://github.com/rajneeshzytox/React-Todo-App)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshzytox&layout=donut-vertical)](https://github.com/rajneeshzytox/React-Todo-App)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajneeshzytox)](https://github.com/rajneeshzytox/React-Todo-App)
 
 ## Let's Connect
 - On X/Twitter: [@rajneeshzytox](https://twitter.com/rajneeshzytox)
