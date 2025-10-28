@@ -2,9 +2,10 @@
 
 I'm a backend engineer with a focus on frappe zoho. 
 
-![Rajneesh State](https://github-readme-stats.vercel.app/api?username=rajneeshzytox&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshzytox&layout=compact&theme=radical&hide_border=true)
+![Rajneesh State](https://github-readme-stats.vercel.app/api?username=rajneeshzytox&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshzytox&layout=compact&theme=transparent&hide_border=true)
 
+![Streak](https://github-readme-stats.vercel.app/api?username=rajneeshzytox&show_icons=true&theme=transparent)
 
 Check out my [full repo list](https://github.com/rajneeshzytox?tab=repositories) for more experiments and side projects.
 
