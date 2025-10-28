@@ -5,7 +5,7 @@ I'm a backend engineer with a focus on frappe zoho.
 ![Rajneesh State](https://github-readme-stats.vercel.app/api?username=rajneeshzytox&show_icons=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshzytox&layout=compact&theme=transparent&hide_border=true)
 
-![Streak](https://github-readme-stats.vercel.app/api?username=rajneeshzytox&show_icons=true&theme=transparent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rajneeshzytox&repo=React-Todo-App)](https://github.com/rajneeshzytox/React-Todo-App)
 
 Check out my [full repo list](https://github.com/rajneeshzytox?tab=repositories) for more experiments and side projects.
 
