@@ -1,3 +1,4 @@
+![social_links](./c8617584f5180a47f90de9004ed7afed%20(1).gif)
 ![social_links](./rajneesh.png)
 
 # Hi there, I'm Rajneesh Kumar! 👋
