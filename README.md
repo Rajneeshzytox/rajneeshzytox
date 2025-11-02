@@ -1,9 +1,10 @@
+# Hi there, I'm Rajneesh Kumar! 👋
+
+I am full stack zoho/frappe developer.
+
 ![social_links](./c8617584f5180a47f90de9004ed7afed%20(1).gif)
 ![social_links](./rajneesh.png)
 
-# Hi there, I'm Rajneesh Kumar! 👋
-
-I'm a backend engineer with a focus on frappe zoho. 
 
 ![Rajneesh State](https://github-readme-stats.vercel.app/api?username=rajneeshzytox&show_icons=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshzytox&layout=compact&theme=transparent&hide_border=true)
@@ -12,7 +13,7 @@ I'm a backend engineer with a focus on frappe zoho.
 
 Check out my [full repo list](https://github.com/rajneeshzytox?tab=repositories) for more experiments and side projects.
 
-![Skills](https://skillicons.dev/icons?i=go,python,docker,k8s,terraform,prometheus,grafana)
+![Skills](https://skillicons.dev/icons?i=python,react,c,cpp,django,express,tailwindcss,js,html,css)
 
 ## 📈 GitHub Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajneeshzytox&theme=radical&hide_border=true)
